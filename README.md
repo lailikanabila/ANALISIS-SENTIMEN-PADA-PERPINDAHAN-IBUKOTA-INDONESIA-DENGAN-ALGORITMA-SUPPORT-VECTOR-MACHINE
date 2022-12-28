@@ -1,0 +1,2 @@
+# ANALISIS-SENTIMEN-PADA-PERPINDAHAN-IBUKOTA-INDONESIA-DENGAN-ALGORITMA-SUPPORT-VECTOR-MACHINE
+Analysis of the opinions expressed on Twitter regarding the relocation of Indonesia's capital city using combination of algorithm classifiers Support Vector Machine (SVM), Feature Selection Term Frequency Inverse Document (TF-IDF), and Bag of Words, and also using a Lexicon-based approach for labeling data as positive or negative sentiment

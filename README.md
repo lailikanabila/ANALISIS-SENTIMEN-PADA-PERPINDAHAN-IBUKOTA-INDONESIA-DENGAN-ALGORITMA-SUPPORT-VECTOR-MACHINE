@@ -3,7 +3,7 @@ Analysis of the opinions expressed on Twitter regarding the relocation of Indone
 
 ## Data Input
 - **Dataset:** Twitter Data regarding the relocation of Indonesia's capital city (May-September 2022)
-- **Slang & Stop Words:** [Kamus Alay (Colloquial Indonesian Lexicon)](https://github.com/nasalsabila/kamus-alay) dan [ID-Stopwords](https://github.com/stopwords-iso/stopwords-id);
+- **Slang & Stop Words:** [Colloquial Indonesian Lexicon](https://github.com/nasalsabila/kamus-alay) dan [ID-Stopwords](https://github.com/stopwords-iso/stopwords-id);
 - **Leksikon:** [InSet](https://github.com/fajri91/InSet) dan sentiwords_id (dari [sentistrength_id](https://github.com/masdevid/sentistrength_id));
 - **Ekstraksi Fitur:**`bag of words`, `TF-IDF`;
 - **Hyperparameter Tunning:** `Grid Search Cross Validation`
